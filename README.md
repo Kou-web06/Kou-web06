@@ -1,3 +1,7 @@
+ <a href="https://github.com/Keichan15">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Kou-web06" />
+  </a>
+
 # Hello, I'm Miyauchi! 👋
 
 I'm an Information Science student at Kogakuin University, passionate about web development and creating useful digital tools. Currently learning JavaScript, React, and exploring the world of web applications!
