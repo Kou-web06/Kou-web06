@@ -1,16 +1,27 @@
-## About me
+# Hello, I'm Miyauchi! 👋
 
+I'm an Information Science student at Kogakuin University, passionate about web development and creating useful digital tools. Currently learning JavaScript, React, and exploring the world of web applications!
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Kou-web06&show_icons=true&locale=en&layout=compact)
-
-## Programing Languages
+  
+  
+## Skills
 ![](https://skillicons.dev/icons?i=html,css,js)
 
 
 ## Currently Learning
-![](https://skillicons.dev/icons?i=typescript,python)
+![](https://skillicons.dev/icons?i=typescript,python,react)
 
 
-## Want to learn
-![](https://skillicons.dev/icons?i=react,php)
+
+## Github Status
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kou-web06&layout=compact&show_icons=true&theme=default" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kou-web06&theme=default&show_icons=ture" />
+</p>
+  
+  
+<img src="https://github-profile-trophy.vercel.app/?username=Kou-web06&theme=juicyfresh&no-bg=true" />
+
+
+
