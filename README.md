@@ -4,7 +4,7 @@
 
 # Hello, I'm Miyauchi! 👋
 
-I'm an Information Science student at Kogakuin University, passionate about web development and creating useful digital tools. Currently learning JavaScript, React, and exploring the world of web applications!
+I'm an Information Science student at Kogakuin University, passionate about web development. Currently learning JavaScript, React, and exploring the world of web applications!
 
   
   
