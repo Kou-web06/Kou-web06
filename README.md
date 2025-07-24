@@ -9,7 +9,7 @@ I'm an Information Science student at Kogakuin University, passionate about web 
 
 
 ## Currently Learning
-![](https://skillicons.dev/icons?i=typescript,python,react)
+![](https://skillicons.dev/icons?i=typescript,python,react,nextjs)
 
 
 
