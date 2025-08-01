@@ -1,21 +1,27 @@
  <a href="https://github.com/Kou-web06">
-    <img height="20" src="https://komarev.com/ghpvc/?username=Kou-web06" />
-  </a>
+   <img height="20" src="https://komarev.com/ghpvc/?username=Kou-web06" />
+ </a>
 
 # Hello, I'm Miyauchi! 👋
 
 I'm an Information Science student at Kogakuin University, passionate about web development. Currently learning JavaScript, React, and exploring the world of web applications!
 
-  
+<br>
   
 ## Skills
 ![](https://skillicons.dev/icons?i=html,css,js)
 
+<br>
 
 ## Currently Learning
 ![](https://skillicons.dev/icons?i=typescript,python,react,nextjs)
 
+<br>
 
+## Tools
+![](https://skillicons.dev/icons?i=notion,figma)
+
+<br>
 
 ## Github Status
 
