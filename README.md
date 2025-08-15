@@ -9,16 +9,17 @@ I'm an Information Science student at Kogakuin University, passionate about web 
 <br>
   
 ## Skills
-![](https://skillicons.dev/icons?i=html,css,js)
+### Languages
+![](https://skillicons.dev/icons?i=html,css,js,c)
 
 <br>
 
-## Currently Learning
+### Currently Learning
 ![](https://skillicons.dev/icons?i=typescript,python,react,nextjs)
 
 <br>
 
-## Tools
+### Tools
 ![](https://skillicons.dev/icons?i=notion,figma)
 
 <br>
