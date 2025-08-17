@@ -15,7 +15,7 @@ I'm an Information Science student at Kogakuin University, passionate about web 
 <br>
 
 ### Currently Learning
-![](https://skillicons.dev/icons?i=typescript,python,react,nextjs)
+![](https://skillicons.dev/icons?i=typescript,react,nextjs,git)
 
 <br>
 
