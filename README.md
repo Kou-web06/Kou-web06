@@ -15,7 +15,7 @@ I'm an Information Science student at Kogakuin University, passionate about web 
 <br>
 
 ### Currently Learning
-![](https://skillicons.dev/icons?i=typescript,react,nextjs,git)
+![](https://skillicons.dev/icons?i=typescript,react,nextjs,git,supabase)
 
 <br>
 
@@ -31,8 +31,6 @@ I'm an Information Science student at Kogakuin University, passionate about web 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kou-web06&theme=default&show_icons=ture" />
 </p>
   
-  
-<img src="https://github-profile-trophy.vercel.app/?username=Kou-web06&theme=juicyfresh&no-bg=true" />
 
 
 
