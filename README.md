@@ -2,33 +2,21 @@
    <img height="20" src="https://komarev.com/ghpvc/?username=Kou-web06" />
  </a>
 
-# Hello, I'm Miyauchi! 👋
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&width=500&lines=Welcom+to+my+Github" />
 
 I'm an Information Science student at Kogakuin University, passionate about web development. Currently learning JavaScript, React, and exploring the world of web applications!
 
 <br>
   
-## Skills
-### Languages
-![](https://skillicons.dev/icons?i=html,css,js,c)
-
-<br>
-
-### Currently Learning
-![](https://skillicons.dev/icons?i=typescript,react,nextjs,git,supabase)
-
-<br>
-
-### Tools
-![](https://skillicons.dev/icons?i=notion,figma)
+## Skills / Framework
+![](https://skillicons.dev/icons?i=html,css,js,c,react)
 
 <br>
 
 ## Github Status
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kou-web06&layout=compact&show_icons=true&theme=default" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kou-web06&theme=default&show_icons=ture" />
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Kou_web06&theme=dracula&column=7&margin-w=15&margin-h=15" />
 </p>
   
 
