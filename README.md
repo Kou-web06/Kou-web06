@@ -2,14 +2,23 @@
    <img height="20" src="https://komarev.com/ghpvc/?username=Kou-web06" />
  </a>
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&width=500&lines=Welcom+to+my+Github" />
+<h1 align="center">
+ Hi👋 I'm Kotaro Miyauchi🎧
+</h1>
 
 I'm an Information Science student at Kogakuin University, passionate about web development. Currently learning JavaScript, React, and exploring the world of web applications!
 
 <br>
 
-![](https://skillicons.dev/icons?i=html,css,js,c,react)
+**Languages & Frameworks**
+<br>
 
+![](https://skillicons.dev/icons?i=html,css,js,ts,c,python,react,nextjs)
+
+**BaaS & Tool**
+<br>
+
+![](https://skillicons.dev/icons?i=git,github,supabase,vercel,figma)
 <br>
 
 
