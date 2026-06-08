@@ -6,21 +6,25 @@
  Hi👋 I'm Kotaro Miyauchi🎧
 </h1>
 
-I'm an Information Science student at Kogakuin University, passionate about web development. Currently learning JavaScript, React, and exploring the world of web applications!
+## About me
+- University: Information Science, Kogakuin University, 3th year
+- Aspiring to be: A Engineer who can deliver comfort and temperature to users.
 
 <br>
 
+## My Skills & Tools
 **Languages & Frameworks**
 <br>
 
-![](https://skillicons.dev/icons?i=html,css,js,ts,c,python,react,nextjs)
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,swift)
 
 **BaaS & Tool**
 <br>
 
-![](https://skillicons.dev/icons?i=git,github,supabase,vercel,figma)
+![](https://skillicons.dev/icons?i=github,supabase,vercel,figma)
 <br>
 
+## Project
 
   
 
