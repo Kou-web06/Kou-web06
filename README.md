@@ -25,8 +25,12 @@
 <br>
 
 ## Project
+![](tickemo_app)
 
-  
-
-
+An app that allows you to record and share live recordings in a ticket style.
+<br>
+**🔗Service URL: https://www.tickemo.com/**  
+<br>
+**Tech:**  
+![](https://skillicons.dev/icons?i=typescript,react)
 
