@@ -9,6 +9,7 @@
 ## About me
 - University: Information Science, Kogakuin University, 3th year
 - Aspiring to be: A Engineer who can deliver comfort and temperature to users.
+- More: https://kotaromiyauchi-portfolio.vercel.app/
 
 <br>
 
