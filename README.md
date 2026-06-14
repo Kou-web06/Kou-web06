@@ -22,7 +22,7 @@
 **BaaS & Tool**
 <br>
 
-![](https://skillicons.dev/icons?i=github,supabase,vercel,figma)
+![](https://skillicons.dev/icons?i=github,supabase,figma,notion)
 <br>
 
 ## Project
