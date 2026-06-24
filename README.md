@@ -26,6 +26,8 @@
 <br>
 
 ## Project
+---
+### #Now playing
 ![](tickemo_app)
 
 An app that allows you to record and share live recordings in a ticket style.
@@ -35,3 +37,11 @@ An app that allows you to record and share live recordings in a ticket style.
 **Tech:**  
 ![](https://skillicons.dev/icons?i=typescript,react)
 
+  ---
+### #In development
+![](qlear_app)
+
+Let's put an end to "I ate it again." Qlear is a habit-building app for detoxing from junk food.
+<br>   
+**Tech:**  
+![](https://skillicons.dev/icons?i=swift)
